@@ -1,0 +1,43 @@
+
+f	java:S116"QRename this field "Drogen" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úãºÑ
+f	java:S116"QRename this field "wir_En" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ïôçç
+r
+java:S1450"WRemove the "fehlerab" field and declare it as a local variable in the relevant methods.(–‚ÿäÿÿÿÿÿ
+<	java:S131""Add a default case to this switch.(Ÿ±Øžøÿÿÿÿ
+h
+java:S3776H"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.(¥ÑŒ²
+K
+java:S1611X"5Remove the parentheses around the "message" parameter(Ý•©×
+P
+java:S1611a"5Remove the parentheses around the "message" parameter(¬Ø‹Éøÿÿÿÿ
+P
+java:S1611j"5Remove the parentheses around the "message" parameter(ˆÙâ¼ÿÿÿÿÿ
+P
+java:S1611s"5Remove the parentheses around the "message" parameter(¹Â„ëüÿÿÿÿ
+P
+java:S1611|"5Remove the parentheses around the "message" parameter(†¹Š’ýÿÿÿÿ
+Q
+java:S1611…"5Remove the parentheses around the "message" parameter(ŠîàØúÿÿÿÿ
+Q
+java:S1611Ž"5Remove the parentheses around the "message" parameter(€ÿßáÿÿÿÿÿ
+Q
+java:S1611—"5Remove the parentheses around the "message" parameter(Œ°å‡þÿÿÿÿ
+Q
+java:S1611Ÿ"5Remove the parentheses around the "message" parameter(ÉÙôüÿÿÿÿ
+Q
+java:S1611§"5Remove the parentheses around the "message" parameter(·µÉÏüÿÿÿÿ
+Q
+java:S1611¯"5Remove the parentheses around the "message" parameter(·ßé´þÿÿÿÿ
+L
+java:S1611·"5Remove the parentheses around the "message" parameter(Šá¬­
+T	java:S106¾"9Replace this use of System.out or System.err by a logger.(´¶ þÿÿÿÿ
+J
+java:S1611Á"4Remove the parentheses around the "direct" parameter(åÐ¾B
+T	java:S106Ç"9Replace this use of System.out or System.err by a logger.(êƒœÙûÿÿÿÿ
+v
+java:S1192Z"[Define a constant instead of duplicating this literal "upvote:790623007043354634" 13 times.(ñõ†þÿÿÿÿ
+J
+java:S1066S"/Merge this if statement with the enclosing one.(ÞÙÕ­ÿÿÿÿÿ
+k	java:S117Y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(íëì×þÿÿÿÿ
+l	java:S117¸"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(þÄªÓýÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Æ«èŸÿÿÿÿÿ
